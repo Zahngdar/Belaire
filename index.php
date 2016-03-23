@@ -29,23 +29,37 @@
             <span class="icon-bar"></span>
           </button>
         </div>
+
+
         <div id="navbar-main" class="navbar-collapse navbar" style="background-color:#996600;">
           <div class="container">
             <div class="navbar-header">
-              <a class="navbar-brand" href="index.php"><h1 id="titre"> Bel-Air</h1> </br>
-
+              <a class="navbar-brand" href="/index.html"><h1 id="titre"> Bel-Air</h1> </br>
             </div>
-
             <ul class="nav navbar-nav">
               <li><a href=#>Accueil</a></li>
               <li><a href=#>Chambres</a></li>
-              <li><a href=activites.php>Activités</a></li>
+              <li><a href=#>Activités</a></li>
               <li><a href=#>Actualité</a></li>
-              <li><a href=contact.php>Contact</a></li>
+              <li><a href=#>Contact</a></li>
               <li><a href=#>English website</a></li>
             </ul>
           </div>
-      </div>
+        </div>
+        <div id="navbar-main-mobile" class="navbar-collapse navbar navbar-fixed-top" style="background-color:#996600;">
+          <center>
+            <div id="menu-mobile">
+              <a class="navbar-brand" href="/index.html"><h1 id="titre"> Bel-Air</h1> </br>
+                <a id="themes" class="dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
+                  <h1 style="color:white;">Menu</h1>
+              <span class="caret"></span>
+            </div>
+          </center>
+
+
+  </a>
+        </div>
+
     </div>
 
 
@@ -74,20 +88,5 @@
     </div>
 
     </center>
-
-    <div class="navbar navbar-default navbar-fixed-bottom" style="margin-top:-50px;height:51px">
-        <div id="navbar-main" class="navbar-collapse navbar" style="background-color:#996600;">
-          <div class="container">
-            <ul class="nav navbar-nav" style="margin-left:16%">
-              <li><a href=#>CGV</a></li>
-              <li><a href=#>Mentions Légales</a></li>
-              <li><a href=#>Plan du site</a></li>
-              <li><a href=#>Partenaires</a></li>
-              <li><a href=#>Création Grégory Fauchille / HDReady Graphics</a></li>
-            </ul>
-          </div>
-      </div>
-    </div>
-
   </body>
 </html>
