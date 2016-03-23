@@ -66,6 +66,13 @@
         </figure>
       </div>
     </div>
+    <div class="jumbotron" id="presentation">
+      <p>A 10km du centre de Nantes et à 500m du bourg.</br>
+        Dans un petit château construit en 1870 et entouré d’un parc arboré, écrin de verdure s’ouvrant sur un superbe point de vue sur la Loire.</br>
+        Quatre chambres à votre disposition au deuxième étage, confortables et douillettes munies de grands lits, avec petits déjeuners copieux.</br>
+      </p>
+    </div>
+
     </center>
   </body>
 </html>
