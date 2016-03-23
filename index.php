@@ -32,7 +32,7 @@
         <div id="navbar-main" class="navbar-collapse navbar" style="background-color:#996600;">
           <div class="container">
             <div class="navbar-header">
-              <a class="navbar-brand" href="/index.html"><h1 id="titre"> Bel-Air</h1> </br>
+              <a class="navbar-brand" href="/index.php"><h1 id="titre"> Bel-Air</h1> </br>
 
             </div>
 

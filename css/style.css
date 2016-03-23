@@ -6,7 +6,9 @@
            margin-bottom: -15px;
 margin-left: -15px;
 width:1022px;}
+
 .nav      {color: #523c24;}
+
 
 @keyframes slidy {
 0% { left: 0%; }
@@ -54,5 +56,3 @@ div#slider figure {
   {
     background-color:#996600;
   }
-  #slider 
-}
