@@ -32,7 +32,7 @@
         <div id="navbar-main" class="navbar-collapse navbar" style="background-color:#996600;">
           <div class="container">
             <div class="navbar-header">
-              <a class="navbar-brand" href="/index.php"><h1 id="titre"> Bel-Air</h1> </br>
+              <a class="navbar-brand" href="index.php"><h1 id="titre"> Bel-Air</h1> </br>
 
             </div>
 
@@ -99,5 +99,20 @@
 
 
     </center>
+
+    <div class="navbar navbar-default navbar-fixed-bottom" style="margin-top:-50px;height:51px">
+        <div id="navbar-main" class="navbar-collapse navbar" style="background-color:#996600;">
+          <div class="container">
+            <ul class="nav navbar-nav" style="margin-left:16%">
+              <li><a href=#>CGV</a></li>
+              <li><a href=#>Mentions Légales</a></li>
+              <li><a href=#>Plan du site</a></li>
+              <li><a href=#>Partenaires</a></li>
+              <li><a href=#>Création Grégory Fauchille / HDReady Graphics</a></li>
+            </ul>
+          </div>
+      </div>
+    </div>
+
   </body>
 </html>
