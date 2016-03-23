@@ -30,30 +30,40 @@
           </button>
         </div>
         <div id="navbar-main" class="navbar-collapse navbar" style="background-color:#996600;">
-        <ul class="nav navbar-nav">
-          <li><a href=#>Accueil</a></li>
-          <li><a href=#>Chambres</a></li>
-          <li><a href=#>Activités</a></li>
-          <li><a href=#>Actualité</a></li>
-          <li><a href=#>Contact</a></li>
-          <li><a href=#>English website</a></li>
-        </ul>
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/index.html"><h1 id="titre"> Bel-Air</h1> </br>
+
+            </div>
+
+            <ul class="nav navbar-nav">
+              <li><a href=#>Accueil</a></li>
+              <li><a href=#>Chambres</a></li>
+              <li><a href=#>Activités</a></li>
+              <li><a href=#>Actualité</a></li>
+              <li><a href=#>Contact</a></li>
+              <li><a href=#>English website</a></li>
+            </ul>
+          </div>
       </div>
     </div>
 
 
     <center>
-      <div id="corps" style="margin-top:75px; ">
+      <div style="margin-top:75px; ">
       <div id="tete">
-        <h1 id="titre"> Bel-Air</h1> </br>
-        <h3 id="stitre"> Chambres d'hôtes<h3>
+
       </div>
 
-      <div class="jumbotron">
-            <h2 style="margin-top:-45px">Resultats</h2>
-        <div class="panel-body">
-      <img id="img_head" src="images/photos-aeriennes-et-chambres.jpg">
-    </div>
+
+      <div id="slider">
+        <figure>
+          <img src="http://demosthenes.info/assets/images/austin-fireworks.jpg" alt="">
+          <img src="http://demosthenes.info/assets/images/taj-mahal.jpg" alt="">
+          <img src="http://demosthenes.info/assets/images/ibiza.jpg" alt="">
+          <img src="http://demosthenes.info/assets/images/ankor-wat.jpg" alt="">
+          <img src="http://demosthenes.info/assets/images/austin-fireworks.jpg" alt="">
+        </figure>
       </div>
     </div>
     </center>
