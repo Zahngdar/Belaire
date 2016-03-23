@@ -39,9 +39,9 @@
             <ul class="nav navbar-nav">
               <li><a href=#>Accueil</a></li>
               <li><a href=#>Chambres</a></li>
-              <li><a href=#>Activités</a></li>
+              <li><a href=activites.php>Activités</a></li>
               <li><a href=#>Actualité</a></li>
-              <li><a href=#>Contact</a></li>
+              <li><a href=contact.php>Contact</a></li>
               <li><a href=#>English website</a></li>
             </ul>
           </div>
