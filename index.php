@@ -1,12 +1,13 @@
 <?php
   ?>
 
-<!DOTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset='UTF-8'>
     <!-- css des frameworks -->
     <link rel ="stylesheet" href="../css/bootstrap.css">
+    <link rel ="stylesheet" href="css/style.css">
     <link rel ="stylesheet" href="../css/bootstrap-theme.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
      <!-- un theme css plutot flat -->
@@ -17,20 +18,6 @@
 
     <!-- framework JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <style>
-    #corps    {width: 1024px;}
-    #titre    {margin-left: -30%; margin-bottom: -2%}
-    #stitre   {margin-left: -10%; margin-top:0;}
-    #tete     {margin-left: -20%;}
-    #img_head {margin-top: -15px;
-               margin-bottom: -15px;
-		margin-left: -15px;
-		width:1022px;}
-    .nav      {color: #523c24;}
-
-    }
-
-    </style>
   </head>
   <body>
     <div class="navbar navbar-default navbar-fixed-top" style="margin-top:-50px;height:51px">
